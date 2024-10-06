@@ -6,9 +6,9 @@ I'm a software engineer and trainer/consultant from Poland. 🇵🇱
 
 ## My mission 🎯
 
-Advocate for software engineering in Python world. 📣
+Advocate for software engineering in the Python world. 📣
 
-Making software is hard. Even though we have wonderful language, we're not special. Many challenges we face are universal and affect software developers working with other technologies as well. 
+Making software is hard. Even though we have a wonderful language, we're not special. Many challenges we face are universal and affect software developers working with other technologies as well. 
 
 - Learn from others, seeking wisdom across all technologies 🌍
 - Bring the best ideas to Python, yet tailor them to match our idioms and patterns. 🐍
@@ -16,9 +16,9 @@ Making software is hard. Even though we have wonderful language, we're not speci
 
 ## My work 🔭
 
-I train Pythonstas in [Bottega IT Minds](https://bottega.com.pl/). I teach Pythonistas [clean code, the Clean Architecture, microservices, Kafka and testing](https://bottega.com.pl/trener-trener-sebastian-buczynski). 👨‍🏫
+I train Pythonistas in [Bottega IT Minds](https://bottega.com.pl/). I teach Pythonistas [clean code, the Clean Architecture, microservices, Kafka and testing](https://bottega.com.pl/trener-trener-sebastian-buczynski). 👨‍🏫
 
-I wrote a book [Implementing the Clean Architecture](https://leanpub.com/implementing-the-clean-architecture), here's an [accompanying repository](https://github.com/Enforcer/implementing-the-clean-architecture). 📘
+I wrote a book [Implementing the Clean Architecture](https://leanpub.com/implementing-the-clean-architecture) and here's an [accompanying repository](https://github.com/Enforcer/implementing-the-clean-architecture). 📘
 
 I am currently working on open source project [Python Event Sourcery](https://github.com/python-event-sourcery/python-event-sourcery) to make Event Sourcing accessible for every Pythonista. 🐍
 
