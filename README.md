@@ -10,9 +10,9 @@ Advocate for software engineering in Python world. 📣
 
 Making software is hard. Even though we have wonderful language, we're not special. Many challenges we face are universal and affect software developers working with other technologies as well. 
 
-- We should learn from this large community, not alienating ourselves. 👩🏽‍💻🧑🏻‍💻👨🏾‍💻
-- We should take good parts from elsewhere and implement them in Python, yet adjusting it to language and its idioms. 🐍
-- We should be relentless in improvement and advancement of both our skills and the language. ⭐️
+- Learn from others, seeking wisdom across all technologies 🌍
+- Bring the best ideas to Python, yet tailor them to match our idioms and patterns. 🐍
+- Relentless, never-stopping advancement of both our skills and the language itself. ⭐️
 
 ## My work 🔭
 
